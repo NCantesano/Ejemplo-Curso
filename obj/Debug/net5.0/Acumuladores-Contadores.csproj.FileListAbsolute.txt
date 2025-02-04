@@ -1,0 +1,16 @@
+C:\Users\nesto\OneDrive\Escritorio\CURSO DE C NIVEL 1\Acumuladores-Contadores\obj\Debug\net5.0\Acumuladores-Contadores.csproj.AssemblyReference.cache
+C:\Users\nesto\OneDrive\Escritorio\CURSO DE C NIVEL 1\Acumuladores-Contadores\obj\Debug\net5.0\Acumuladores-Contadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nesto\OneDrive\Escritorio\CURSO DE C NIVEL 1\Acumuladores-Contadores\obj\Debug\net5.0\Acumuladores-Contadores.AssemblyInfoInputs.cache
+C:\Users\nesto\OneDrive\Escritorio\CURSO DE C NIVEL 1\Acumuladores-Contadores\obj\Debug\net5.0\Acumuladores-Contadores.AssemblyInfo.cs
+C:\Users\nesto\OneDrive\Escritorio\CURSO DE C NIVEL 1\Acumuladores-Contadores\obj\Debug\net5.0\Acumuladores-Contadores.csproj.CoreCompileInputs.cache
+C:\Users\nesto\OneDrive\Escritorio\CURSO DE C NIVEL 1\Acumuladores-Contadores\bin\Debug\net5.0\Acumuladores-Contadores.exe
+C:\Users\nesto\OneDrive\Escritorio\CURSO DE C NIVEL 1\Acumuladores-Contadores\bin\Debug\net5.0\Acumuladores-Contadores.deps.json
+C:\Users\nesto\OneDrive\Escritorio\CURSO DE C NIVEL 1\Acumuladores-Contadores\bin\Debug\net5.0\Acumuladores-Contadores.runtimeconfig.json
+C:\Users\nesto\OneDrive\Escritorio\CURSO DE C NIVEL 1\Acumuladores-Contadores\bin\Debug\net5.0\Acumuladores-Contadores.runtimeconfig.dev.json
+C:\Users\nesto\OneDrive\Escritorio\CURSO DE C NIVEL 1\Acumuladores-Contadores\bin\Debug\net5.0\Acumuladores-Contadores.dll
+C:\Users\nesto\OneDrive\Escritorio\CURSO DE C NIVEL 1\Acumuladores-Contadores\bin\Debug\net5.0\ref\Acumuladores-Contadores.dll
+C:\Users\nesto\OneDrive\Escritorio\CURSO DE C NIVEL 1\Acumuladores-Contadores\bin\Debug\net5.0\Acumuladores-Contadores.pdb
+C:\Users\nesto\OneDrive\Escritorio\CURSO DE C NIVEL 1\Acumuladores-Contadores\obj\Debug\net5.0\Acumuladores-Contadores.dll
+C:\Users\nesto\OneDrive\Escritorio\CURSO DE C NIVEL 1\Acumuladores-Contadores\obj\Debug\net5.0\ref\Acumuladores-Contadores.dll
+C:\Users\nesto\OneDrive\Escritorio\CURSO DE C NIVEL 1\Acumuladores-Contadores\obj\Debug\net5.0\Acumuladores-Contadores.pdb
+C:\Users\nesto\OneDrive\Escritorio\CURSO DE C NIVEL 1\Acumuladores-Contadores\obj\Debug\net5.0\Acumuladores-Contadores.genruntimeconfig.cache

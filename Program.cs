@@ -1,40 +1,35 @@
 ﻿using System;
 
-namespace ejercicio_5
+namespace Acumuladores_Contadores
 {
     class Program
     {
         static void Main(string[] args)
         {
-            // 5. Hacer un programa para ingresar 4 números. Luego analizar e informar por 
-            // pantalla si los mismos se encuentran ordenados de forma decreciente .
+            // Acumuladorse y Acumuladores:
+            int contador = 0 , edad1 = 20 , edad2 = 13, edad3 = 30;
+            int acumulador = 0 , promedio;
+            // contador = contador + 1,
+            // ++
+            // --
+            // +=
+            // -=
+            if(edad1 > 18 ){
+                contador ++;
+                acumulador += edad1;
+            }
+            if (edad2 > 18){
+                contador = contador +1;
+                acumulador = acumulador + edad2;
+            }
+    
+            if (edad3 > 18){
+                contador = contador + 1;
+                acumulador += edad3;
+            }
+            promedio = acumulador/contador;
+            Console.WriteLine ("el promedio es: " + promedio);
 
-
-           int n1,n2,n3,n4;
-
-           Console.WriteLine("ingrese un numero:");
-           n1 = int.Parse(Console.ReadLine());
-           Console.WriteLine("ingrese un numero:");
-           n2 = int.Parse(Console.ReadLine());
-           Console.WriteLine("ingrese un numero:");
-           n3 = int.Parse(Console.ReadLine());
-           Console.WriteLine("ingrese un numero:");
-           n4 = int.Parse(Console.ReadLine());
-
-           if (n1 > n2 && n2 > n3 && n3 > n4)
-              Console.WriteLine("ESTAN ORDENADOS EN FORMA DECRECIENTE:");
-              else
-              Console.WriteLine("NO ESTAN ORDENADOS:");
-
-              
-                
-              
-         
-                
-            
-
-
-           
         }
     }
 }
