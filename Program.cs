@@ -6,7 +6,7 @@ namespace Acumuladores_Contadores
     {
         static void Main(string[] args)
         {
-            // Acumuladorse y Acumuladores:
+            // Acumuladores y Contadores
             int contador = 0 , edad1 = 20 , edad2 = 13, edad3 = 30;
             int acumulador = 0 , promedio;
             // contador = contador + 1,
